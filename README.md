@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Chriz-James019/Chriz-James019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chrsitian, a It Student in Philippine 
 
-Here are some ideas to get you started:
+This is a fresh profile whre I'II be uploading spme smaller project,and experement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+- Python, c++, java, html
+- Figma, Notes++
+
+---
+
+### A Bit About Me
+
+- Into anime — Sword art online is a favorite
+- I like building things that are simple, useful, and easy to understand
